@@ -10,30 +10,6 @@
  * Designed and built with all the love in the world @twitter by @mdo and @fat.
  */
 
-.social-section {
-    margin:75px 0 30px;
-}
-
-.social-img {
-    width: 58px;
-    height: 58px;
-}
-
-.fb-img {
-    width: 32px;
-    height: 32px;
-}
-
-.trevor-logo {
-    font-family: 'Give You Glory';
-    font-size: 128px;
-}
-
-.trevor-logo-small {
-    font-family: 'Give You Glory';
-    font-size: 32px;
-}
-
 .clearfix {
   *zoom: 1;
 }
@@ -257,7 +233,7 @@ body {
 }
 
 a {
-  color: #999999;
+  color: #33b5e5;
   text-decoration: none;
 }
 
@@ -831,7 +807,7 @@ h4 small {
 
 .page-header {
   padding-bottom: 9px;
-  margin:75px 0 30px;
+  margin: 20px 0 30px;
   border-bottom: 1px solid #eeeeee;
 }
 
